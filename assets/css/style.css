@@ -249,6 +249,15 @@ input[type=submit] {
   background: #fff;
   border-bottom: 2px solid #ccc;
 }
+html{
+  width:960px;
+}
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
 
 #logo {
   margin-left: 102px;
@@ -331,6 +340,9 @@ nav a {
   background: #fff;
   border-bottom: 2px solid #ccc;
 }
+html{
+  width: 960px;
+}
 
 #logo {
   margin-left: 22px;
@@ -372,7 +384,7 @@ nav a {
   margin-right: 25px;
   float: right;
   width: 100%;
-  max-width: 721px;
+  max-width: 917px;
   padding: 30px;
   margin-bottom: 20px;
   background: #fff;
@@ -392,7 +404,7 @@ nav a {
 .main-section {
   float: left;
   width: 100%;
-  max-width: 721px;
+  max-width: 917px;
   padding: 30px;
   margin-bottom: 40px;
   margin-left: 20px;
@@ -414,7 +426,9 @@ nav a {
   background: #fff;
   border-bottom: 2px solid #ccc;
 }
-
+html{
+  width: 960px;
+}
 #logo {
   margin-left: 0px;
   float: left;
@@ -431,7 +445,7 @@ nav a {
 }
 
 nav {
-  margin-right: 113px;
+  margin-right: 274px;
   float: right;
   margin-top: 25px;
 }
@@ -456,7 +470,7 @@ nav a {
   margin-right: 20px;
   float: right;
   width: 100%;
-  max-width: 603px;
+  max-width: 916px;
   padding: 30px;
   margin-bottom: 33px;
   background: #fff;
@@ -469,7 +483,7 @@ nav a {
 .main-section {
   float: left;
   width: 100%;
-  max-width: 603px;
+  max-width: 916px;
   padding: 30px;
   margin-top: -16px;
   margin-bottom: 34px;
